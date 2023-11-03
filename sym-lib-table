@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPIC6C595N")(type "KiCad")(uri "${KIPRJMOD}/TPIC6C595N/TPIC6C595N.kicad_sym")(options "")(descr ""))
+)
